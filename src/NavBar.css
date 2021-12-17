@@ -1,0 +1,24 @@
+#navLinks {
+	margin: auto 0;
+}
+
+#navLinks > a {
+	padding: 0px 1rem;
+}
+
+#mainNav > * {
+	font-size: 1.5rem;
+}
+
+#navBar {
+	display: flex;
+	padding: 1rem;
+	justify-content: space-between;
+	background-color: cadetblue;
+	border-bottom: 2px solid green;
+}
+
+#navBar * {
+	text-decoration: none;
+	color: coral;
+}
